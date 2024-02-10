@@ -1,0 +1,12 @@
+[Plymouth Theme]
+Name=deepin-logo
+Description=Deepin Logo
+ModuleName=two-step
+
+[two-step]
+ImageDir=/usr/share/plymouth/themes/deepin-logo
+BackgroundStartColor=0x000000
+BackgroundEndColor=0x000000
+HorizontalAlignment=.5
+Transition=merge-fade
+TransitionDuration=0.5

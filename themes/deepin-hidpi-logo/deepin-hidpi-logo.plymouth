@@ -1,0 +1,13 @@
+[Plymouth Theme]
+Name=deepin-hidpi-logo
+Description=Deepin-logo hidpi plugin. 
+ModuleName=two-step
+
+[two-step]
+ImageDir=/usr/share/plymouth/themes/deepin-hidpi-logo
+BackgroundStartColor=0x000000
+BackgroundEndColor=0x000000
+HorizontalAlignment=.5
+Transition=merge-fade
+TransitionDuration=0.5
+
